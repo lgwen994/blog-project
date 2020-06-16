@@ -1,0 +1,41 @@
+{
+	"success": true,
+	"data": {
+		        "topicList": [
+		            {
+		                "id": 1,
+		                "title": "java",
+		                "imgUrl": "https://www.shanewen.me/img/java.jpg"
+		            },
+		            {
+		                "id": 2,
+		                "title": "dotnet",
+		                "imgUrl": "https://www.shanewen.me/img/dotnet.png"
+		            }
+		        ],
+		        "articleList": [
+		            {
+		                "id": 1,
+		                "title": "Baptists",
+		                "content": "Baptist churches also generally subscribe to the doctrines of soul competency, sola fide (salvation by faith alone), sola scriptura (scripture alone as the rule of faith and practice) and congregationalist church government.",
+		                "imgUrl": "https://www.shanewen.me/img/id-photo.jpg"
+		            },
+		            {
+		                "id": 2,
+		                "title": "Baptists2",
+		                "content": "Baptist churches also generally subscribe to the doctrines of soul competency, sola fide (salvation by faith alone), sola scriptura (scripture alone as the rule of faith and practice) and congregationalist church government.",
+		                "imgUrl": "https://www.shanewen.me/img/id-photo.jpg"
+		            }
+		        ],
+		        "recommandList": [
+		            {
+		                "id": 1,
+		                "imgUrl": "https://www.shanewen.me/img/icons/sit.jpg"
+		            },
+		            {
+		                "id": 2,
+		                "imgUrl": "https://www.shanewen.me/img/icons/sitlake.jpg"
+		            }
+		        ]
+		    }
+}

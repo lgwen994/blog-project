@@ -1,0 +1,13 @@
+export const INITIAL_HOME_LIST = 'initial_home_list';
+export const MORE_ARTICLE_LIST = 'more_article_list';
+export const CHANGE_SCROLL_TOP_SHOW = 'change_scroll_top_show';
+// export const GET_INIT_LIST = 'get_init_list'
+// export const CHANGE_INPUT_VALUE = 'change_input_value';
+// export const ADD_TODO_ITEM = 'add_todo_item';
+// export const DELETE_TODO_ITEM = 'delete_todo_item';
+// export const SEARCH_FOCUS = 'search_focus' ;
+// export const SEARCH_BLUR = 'search_blur';
+// export const CHANGE_LIST = 'change_list';
+// export const MOUSE_ENTER = 'mouse_enter';
+// export const MOUSE_LEAVE = 'mouse_leave';
+// export const CHANGE_PAGE = 'change_page';
